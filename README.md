@@ -48,6 +48,11 @@ SD-Icon icons automatically inherit CSS size and color.
 ```
 
 
+### Contributing
+
+ - Please send us a high quality brand logo image or Illustrator file to add your icon.
+
+
 ### Todos
 
  - Add More Icons
