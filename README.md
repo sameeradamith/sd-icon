@@ -9,7 +9,7 @@ Icon pack for web application to Sri Lnakan popur brands.
 
 
 ```sh
-    <link rel="stylesheet" href="../css/sd-icon-1.0.0.css">
+    <link rel="stylesheet" href="../css/sd-icon-1.0.1.css">
 ```
 
 
